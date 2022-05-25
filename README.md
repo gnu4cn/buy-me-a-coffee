@@ -10,17 +10,12 @@
 <details>
     <summary>打赏（donate）💰</summary>
 
-<table>
-    <tr>
-        <th><img src="alipay-banner.png" height="15" /></th>
-        <th><img src="wechat-pay-banner.png" height="15" /></th>
-        <th><img src="logotop.png" height="15" /></th>
-    </tr>
-    <tr>
-        <td><img src="633086908.jpg" /></td>
-        <td><img src="611739062.jpg" /></td>
-        <td><img src="btc-qrcode.png" /></td>
-    </tr>
-</table>
+![支付宝-Alipay](633086908.jpg)
+
+
+![微信支付-WeChat Pay](611739062.jpg)
+
+
+![比特币付款-Bitcoin](btc-qrcode.png)
 
 </details>
