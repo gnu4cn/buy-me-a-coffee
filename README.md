@@ -1,4 +1,4 @@
-# 打赏（Buy me a coffee）
+# books.xfoss.com
 
 ## 书籍
 
@@ -6,13 +6,20 @@
 - [学习 TypeScript 编程语言 🎓](https://ts.xfoss.com/)
 - [60 天通过 CCNA 考试（计算机网络） 🖧](https://ccna60d.xfoss.com/)
 
-## 打赏（donate）💰
 
 <details>
     <summary>打赏（donate）💰</summary>
 
-| <img src="alipay-banner.png" height="15" /> | <img src="wechat-pay-banner.png" height="15" /> | <img src="logotop.png" height="15" /> |
-| :----: | :----: | :----: |
-| <img src="633086908.jpg" /> | <img src="611739062.jpg" /> | <img src="btc-qrcode.png" /> |
-
+    <table>
+        <tr>
+            <th><img src="alipay-banner.png" height="15" /></th>
+            <th><img src="wechat-pay-banner.png" height="15" /></th>
+            <th><img src="logotop.png" height="15" /></th>
+        </tr>
+        <tr>
+            <td><img src="633086908.jpg" /></td>
+            <td><img src="611739062.jpg" /></td>
+            <td><img src="btc-qrcode.png" /></td>
+        </tr>
+    </table>
 </details>
