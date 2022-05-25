@@ -12,10 +12,15 @@
 
 ![支付宝-Alipay](633086908.jpg)
 
+*支付宝-Alipay，扫码付款*
 
 ![微信支付-WeChat Pay](611739062.jpg)
 
+*微信支付-WeChat Pay, 扫码付款*
+
 
 ![比特币付款-Bitcoin](btc-qrcode.png)
+
+*比特币-Bitcoin，扫码付款*
 
 </details>
