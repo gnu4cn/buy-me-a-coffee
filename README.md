@@ -10,11 +10,11 @@
 <details>
     <summary>打赏（donate）💰</summary>
 
-![支付宝-Alipay](633086908.jpg)
+![支付宝-Alipay](alipay-laxers.jpg)
 
 *支付宝-Alipay，扫码付款*
 
-![微信支付-WeChat Pay](611739062.jpg)
+![微信支付-WeChat Pay](wechat-pay-lenny.jpg)
 
 *微信支付-WeChat Pay, 扫码付款*
 
