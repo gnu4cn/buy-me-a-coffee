@@ -10,16 +10,17 @@
 <details>
     <summary>打赏（donate）💰</summary>
 
-    <table>
-        <tr>
-            <th><img src="alipay-banner.png" height="15" /></th>
-            <th><img src="wechat-pay-banner.png" height="15" /></th>
-            <th><img src="logotop.png" height="15" /></th>
-        </tr>
-        <tr>
-            <td><img src="633086908.jpg" /></td>
-            <td><img src="611739062.jpg" /></td>
-            <td><img src="btc-qrcode.png" /></td>
-        </tr>
-    </table>
+<table>
+    <tr>
+        <th><img src="alipay-banner.png" height="15" /></th>
+        <th><img src="wechat-pay-banner.png" height="15" /></th>
+        <th><img src="logotop.png" height="15" /></th>
+    </tr>
+    <tr>
+        <td><img src="633086908.jpg" /></td>
+        <td><img src="611739062.jpg" /></td>
+        <td><img src="btc-qrcode.png" /></td>
+    </tr>
+</table>
+
 </details>
