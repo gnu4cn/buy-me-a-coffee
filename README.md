@@ -1,4 +1,4 @@
-# Buy me a coffee
+# 打赏（Buy me a coffee）
 
 | <img src="alipay-banner.png" height="15" /> | <img src="wechat-pay-banner.png" height="15" /> | <img src="logotop.png" height="15" /> |
 | :----: | :----: | :----: |
