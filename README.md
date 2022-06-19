@@ -2,6 +2,7 @@
 
 ## 书籍
 
+- [最新：Rust 编程语言 ®️](https://rust.xfoss.com/)
 - [学习 Java 编程语言 ☕️](https://java.xfoss.com/)
 - [学习 TypeScript 编程语言 🎓](https://ts.xfoss.com/)
 - [60 天通过 CCNA 考试（计算机网络） 🖧](https://ccna60d.xfoss.com/)
