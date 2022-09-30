@@ -21,9 +21,4 @@
 
 *微信支付-WeChat Pay, 扫码付款*
 
-
-![比特币付款-Bitcoin](btc-qrcode.png)
-
-*比特币-Bitcoin，扫码付款*
-
 </details>
