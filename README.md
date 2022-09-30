@@ -11,6 +11,8 @@
 <details>
     <summary>打赏（donate）💰</summary>
 
+中信银行，`6217 6820 0058 5415`，彭海林
+
 ![支付宝-Alipay](alipay-laxers.png)
 
 *支付宝-Alipay，扫码付款*
