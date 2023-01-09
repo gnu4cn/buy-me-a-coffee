@@ -8,8 +8,7 @@
 - [60 天通过 CCNA 考试（计算机网络） 🖧](https://ccna60d.xfoss.com/)
 
 
-<details>
-    <summary>打赏（donate）💰</summary>
+{% reveal text="打赏（donate）💰 " %}
 
 中信银行，`6217 6820 0058 5415`，彭海林
 
@@ -21,4 +20,4 @@
 
 *微信支付-WeChat Pay, 扫码付款*
 
-</details>
+{% endreveal %}
