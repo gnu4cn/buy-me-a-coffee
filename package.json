@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gitbook-plugin-click-reveal": "^1.0.0",
+    "gitbook-plugin-sectionx": "^3.1.0",
     "honkit": "^4.0.4"
   }
 }

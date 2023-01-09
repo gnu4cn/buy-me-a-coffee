@@ -7,10 +7,10 @@
 - [学习 TypeScript 编程语言 🎓](https://ts.xfoss.com/)
 - [60 天通过 CCNA 考试（计算机网络） 🖧](https://ccna60d.xfoss.com/)
 
+<button class="section" target="payments" show="打赏/Donate 💰" hide="打赏/Donate 💰"></button>
 
-{% reveal text="打赏（donate）💰 " %}
+<!--sec data-title="付款方式/Payments" data-id="payments" data-show=true ces-->
 
-中信银行，`6217 6820 0058 5415`，彭海林
 
 ![支付宝-Alipay](alipay-laxers.png)
 
@@ -20,4 +20,7 @@
 
 *微信支付-WeChat Pay, 扫码付款*
 
-{% endreveal %}
+
+### 中信银行，`6217 6820 0058 5415`，彭海林
+
+<!--endsec-->

@@ -13,7 +13,7 @@
         "url": "https://github.com/gnu4cn/buy-me-a-coffee"
     },
     "plugins": [
-        "click-reveal"
+        "sectionx"
     ],
     "pluginsConfig": {
     }
