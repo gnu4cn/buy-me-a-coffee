@@ -3,13 +3,16 @@
 ## 书籍
 
 - [最新：Rust 编程语言 ⚙️](https://rust-lang.xfoss.com/)
-- [学习 Java 编程语言 ☕️](https://java-lang.xfoss.com/)
-- [学习 TypeScript 编程语言 🎓](https://ts-lang.xfoss.com/)
+
 - [60 天通过 CCNA 考试（计算机网络） 🖧](https://ccna.xfoss.com/)
+
+- [学习 Java 编程语言 ☕️](https://java-lang.xfoss.com/)
+
+- [学习 TypeScript 编程语言 🎓](https://ts-lang.xfoss.com/)
 
 <button class="section" target="payments" hide="谢绝打赏/No donation" show="我要打赏/I want to donate 💰"></button>
 
-<!--sec data-title="付款方式/Payments" data-id="payments" data-show=true ces-->
+<!--sec data-title="付款方式/Payments" data-id="payments" data-show=false ces-->
 
 
 ![支付宝-Alipay](alipay-laxers.png)
