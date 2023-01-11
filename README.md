@@ -11,8 +11,7 @@
 - [学习 TypeScript 编程语言 📃](https://ts-lang.xfoss.com/)
 
 
-
-<button class="section" target="payments" hide="打赏, donation" show="打赏，donation 💰"></button>
+<button class="section" target="payments" hide="打赏, donation 💰" show="打赏，donation 💰"></button>
 
 <!--sec data-title="付款方式/Payments" data-id="payments" data-show=false ces-->
 
