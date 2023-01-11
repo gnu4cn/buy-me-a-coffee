@@ -13,8 +13,12 @@
         "url": "https://github.com/gnu4cn/buy-me-a-coffee"
     },
     "plugins": [
+        "sitemap",
         "sectionx"
     ],
     "pluginsConfig": {
+        "sitemap": {
+            "hostname": "https://xfoss.com/"
+        }
     }
 }
