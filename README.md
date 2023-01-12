@@ -4,7 +4,7 @@
 
 - [最新：Rust 编程语言 ⚙️](https://rust-lang.xfoss.com/)
 
-- [60 天通过 CCNA 考试（计算机网络） 🖧](https://ccna.xfoss.com/)
+- [60 天通过 CCNA 考试（计算机网络） 🛰️](https://ccna.xfoss.com/)
 
 - [学习 Java 编程语言 ☕️](https://java-lang.xfoss.com/)
 
