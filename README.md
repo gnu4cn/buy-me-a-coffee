@@ -8,7 +8,10 @@
 
 - [学习 Java 编程语言 ☕️](https://java-lang.xfoss.com/)
 
+- [代码 snippets 与技术笔记 · ✨](https://snippets.xfoss.com/)
+
 - [学习 TypeScript 编程语言 📃](https://ts-lang.xfoss.com/)
+
 
 
 <button class="section" target="payments" hide="打赏, donation 💰" show="打赏，donation 💰"></button>
