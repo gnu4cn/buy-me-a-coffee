@@ -6,11 +6,11 @@
 
 - [60 天通过 CCNA 考试（计算机网络） 🛰️](https://ccna.xfoss.com/)
 
-- [学习 Java 编程语言 ☕️](https://java-lang.xfoss.com/)
+- [Java 编程语言 ☕️](https://java-lang.xfoss.com/)
 
 - [代码 snippets 与技术笔记 · ✨](https://snippets.xfoss.com/)
 
-- [学习 TypeScript 编程语言 📃](https://ts-lang.xfoss.com/)
+- [TypeScript 编程语言 📃](https://ts-lang.xfoss.com/)
 
 
 
