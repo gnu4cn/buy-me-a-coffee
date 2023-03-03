@@ -4,13 +4,13 @@
 
 - [最新：Rust 编程语言 ⚙️](https://rust-lang.xfoss.com/)
 
-- [60 天通过 CCNA 考试（计算机网络） 🛰️](https://ccna.xfoss.com/)
+- [60 天通过 CCNA 考试（计算机网络） 🛰️](https://ccna60d.xfoss.com/)
 
-- [Java 编程语言 ☕️](https://java-lang.xfoss.com/)
+- [Java 编程语言 ☕️](https://java.xfoss.com/)
 
 - [代码 snippets 与技术笔记 · ✨](https://snippets.xfoss.com/)
 
-- [TypeScript 编程语言 📃](https://ts-lang.xfoss.com/)
+- [TypeScript 编程语言 📃](https://ts.xfoss.com/)
 
 
 
