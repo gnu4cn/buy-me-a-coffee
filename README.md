@@ -21,14 +21,14 @@
 
 
 
-![支付宝-Alipay](alipay-laxers.png)
+![支付宝-Alipay: laxers@gmail.com](alipay-laxers.png)
 
 *支付宝 - Alipay，扫码付款*
 
 
 
 
-![微信支付-WeChat Pay](wechat-pay-lenny.png)
+![微信支付-WeChat Pay: xfoss-com](wechat-pay-lenny.png)
 
 *微信支付 - WeChat Pay, 扫码付款*
 
