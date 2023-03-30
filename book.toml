@@ -1,6 +1,6 @@
 [book]
 authors = ["rust-lang.xfoss.com"]
-language = "en"
+language = "zh"
 multilingual = false
 src = "src"
 title = "打赏，donate - buy me a coffee"
