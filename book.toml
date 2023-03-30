@@ -3,7 +3,7 @@ authors = ["rust-lang.xfoss.com"]
 language = "en"
 multilingual = false
 src = "src"
-title = "捐赠，donation - buy me a coffee"
+title = "打赏，donate - buy me a coffee"
 
 [preprocessor.pagetoc]
 [output.html]

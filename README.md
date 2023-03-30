@@ -17,7 +17,7 @@
 
 
 <details>
-    <summary>打赏，donation 💰</summary>
+    <summary>打赏，donate 💰</summary>
 
 
 
