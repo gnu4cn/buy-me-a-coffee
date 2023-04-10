@@ -9,3 +9,7 @@ title = "打赏，donate - buy me a coffee"
 [output.html]
 additional-css = ["theme/pagetoc.css"]
 additional-js  = ["theme/pagetoc.js"]
+
+[output.html.print]
+enable = false
+
