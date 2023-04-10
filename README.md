@@ -19,6 +19,10 @@
 <details>
     <summary>打赏，donate 💰</summary>
 
+### 为何要打赏？
+
+xfoss.com 运营需要一点钱，每年大概 ￥500。所以如果你觉得这里的内容有帮助，那么请通过下面渠道进行打赏。
+
 
 
 ![支付宝-Alipay: laxers@gmail.com](alipay-laxers.png)
