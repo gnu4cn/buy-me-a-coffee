@@ -1,3 +1,3 @@
 # Summary
 
-[INDEX](../README.md)
+[INDEX](index.md)
