@@ -2,18 +2,18 @@
 
 ## 书籍
 
-- [最新：Rust 编程语言 ⚙️](https://rust-lang.xfoss.com/) - <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=rust-lang-zh_CN&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+- [最新：Rust 编程语言 ⚙️](https://rust-lang.xfoss.com/) <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=rust-lang-zh_CN&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
 
-- [60 天通过 CCNA 考试（计算机网络） 🛰️](https://ccna60d.xfoss.com/) - <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=ccna60d&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+- [60 天通过 CCNA 考试（计算机网络） 🛰️](https://ccna60d.xfoss.com/) <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=ccna60d&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
-- [Java 编程语言 ☕️](https://java.xfoss.com/)  - <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=learningJava&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-
-
-- [代码 snippets 与技术笔记 · ✨](https://snippets.xfoss.com/)  - <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=code_snippets&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+- [Java 编程语言 ☕️](https://java.xfoss.com/) <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=learningJava&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
 
-- [TypeScript 编程语言 📃](https://ts.xfoss.com/)  - <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=ts-learnings&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+- [代码 snippets 与技术笔记 · ✨](https://snippets.xfoss.com/) <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=code_snippets&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+
+
+- [TypeScript 编程语言 📃](https://ts.xfoss.com/) <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=ts-learnings&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
 
 
