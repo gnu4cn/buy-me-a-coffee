@@ -26,7 +26,7 @@
 >
 > 由于 xfoss.com 运营需要一点开支（每年大概 ￥500）。所以如果你觉得这里的内容有帮助，那么请通过下列渠道进行打赏。
 >
-> 也欢迎向这个代码仓库: [gnu4cn/buy-me-a-coffee](https://github.com/gnu4cn/buy-me-a-coffee) 提交 PR，加入你想加入的内容。在我考虑后，可合并你的 PR 由于此网站内容会定时同步那个代码仓库的内容，因此合并的 PRs 将接近实时显示出来。
+> 也欢迎向这个代码仓库: [gnu4cn/buy-me-a-coffee](https://github.com/gnu4cn/buy-me-a-coffee) 提交 PR，加入你想加入的内容。我经过考虑后，可合并 PR。由于此网站内容会定时同步那个代码仓库的内容，因此合并的 PRs 将接近实时显示出来。
 >
 >
 
