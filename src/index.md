@@ -17,7 +17,7 @@
 - [TypeScript 编程语言 📃](https://ts.xfoss.com/)
 
 
-要在本地阅读本书，请参考：[`mdbook` 在本地阅读](mdbook_howto_serve.md)
+要在本地阅读书本，请参考：[`mdbook` 在本地阅读](mdbook_howto_serve.md)
 
 ---
 
