@@ -322,6 +322,24 @@
   gtag('js', new Date());
 
   gtag('config', 'G-16X4XWR47P');
+
+if(document.querySelector("#document-not-found404")) {
+  let timeLeft = 10;
+
+  var timerId = setInterval(() => {
+    if(timeLeft == -1) {
+      clearTimeout(timerId);
+      let siteRoot = window.location.origin;
+      window.location.replace(siteRoot);
+    } else {
+      let secCounts = document.querySelectorAll(".sec-count")
+      secCounts.forEach(count => {
+        count.innerHTML = timeLeft;
+      });
+      timeLeft--;
+    }
+  }, 1000);
+}
 </script>
     </body>
 </html>
