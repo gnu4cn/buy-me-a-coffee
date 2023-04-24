@@ -5,7 +5,6 @@ multilingual = false
 src = "src"
 title = "打赏，donate - buy me a coffee"
 
-[preprocessor.pagetoc]
 [output.html]
 additional-css = ["theme/pagetoc.css"]
 additional-js  = ["theme/pagetoc.js"]
