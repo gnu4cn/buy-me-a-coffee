@@ -8,6 +8,7 @@ title = "打赏，donate - buy me a coffee"
 [output.html]
 git-repository-url = "https://github.com/gnu4cn/buy-me-a-coffee"
 git-repository-icon = "fa-github"
+google-analytics="G-16X4XWR47P"
 
 [output.html.print]
 enable = false
