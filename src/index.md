@@ -12,6 +12,9 @@
 - [Java 编程语言](https://java.xfoss.com/) ☕️
 
 
+- [Jenkins 用户手册](https://jenkins.xfoss.com) 🏗️
+
+
 - [代码 snippets 与技术笔记](https://snippets.xfoss.com/) ✨
 
 
