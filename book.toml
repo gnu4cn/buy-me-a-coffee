@@ -5,6 +5,11 @@ multilingual = false
 src = "src"
 title = "打赏，donate - buy me a coffee"
 
+[preprocessor.last-changed]
+command = "mdbook-last-changed"
+renderer = ["html"]
+
+
 [output.html]
 git-repository-url = "https://github.com/gnu4cn/buy-me-a-coffee"
 git-repository-icon = "fa-github"
