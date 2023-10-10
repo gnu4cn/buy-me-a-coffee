@@ -19,6 +19,9 @@
 - [Jenkins 用户手册](https://jenkins.xfoss.com) 🏗️
 
 
+- [HPC 集群](https://hpc.xfoss.com)
+
+
 - [代码 snippets 与技术笔记](https://snippets.xfoss.com/) ✨
 
 
