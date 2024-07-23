@@ -2,7 +2,7 @@
 
 
 
-
+多年以来，xfoss.com 已有如下内容。这些内容在不断更新和修订中。希望能对你有所帮助。
 
 
 
@@ -14,6 +14,12 @@
 
 
 - [Java 编程语言](https://java.xfoss.com/) ☕️
+
+
+- [Tcl/Tk 语言](https://tcl.xfoss.com)
+
+
+- [Lua 语言](https://lua.xfoss.com)
 
 
 - [Jenkins 用户手册](https://jenkins.xfoss.com) 🏗️

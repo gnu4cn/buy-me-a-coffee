@@ -1,6 +1,9 @@
 ## `books.xfoss.com`
 
 
+多年以来，xfoss.com 已有如下内容。这些内容在不断更新和修订中。希望能对你有所帮助。
+
+
 
 
 - [Rust 编程语言](https://rust-lang.xfoss.com/) ⚙️
@@ -28,6 +31,10 @@
 
 
 - [TypeScript 编程语言](https://ts.xfoss.com/) 📃
+
+
+
+
 
 
 
