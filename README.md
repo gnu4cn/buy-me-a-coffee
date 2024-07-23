@@ -19,7 +19,7 @@
 - [Tcl/Tk 语言](https://tcl.xfoss.com) 🪶
 
 
-- [Lua 语言](https://lua.xfoss.com)
+- [Lua 语言](https://lua.xfoss.com) ☯️
 
 
 - [Jenkins 用户手册](https://jenkins.xfoss.com) 🏗️
