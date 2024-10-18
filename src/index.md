@@ -27,7 +27,7 @@
 - [HPC 集群](https://hpcl.xfoss.com) 🧮
 
 
-- 代码 snippets 与技术笔记（已关闭访问） ✨
+- [代码 snippets 与技术笔记](https://snippets.xfoss.com) ✨
 
 
 - [TypeScript 编程语言](https://ts.xfoss.com/) 📃
