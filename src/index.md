@@ -66,7 +66,7 @@
 
 
 
-![微信支付-WeChat Pay: xfoss-com](images/wechat-pay-lenny.png)
+![微信支付-WeChat Pay: xfoss-com](images/wechat-pay-hector.png)
 
 *微信支付 - WeChat Pay, 扫码付款*
 
