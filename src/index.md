@@ -46,7 +46,7 @@
 ---
 
 <details>
-    <summary>打赏，donate 💰</summary>
+    <summary><a href="#" class="button">打赏，donate 💰</a></summary>
 
 >
 > **为何要打赏**？
