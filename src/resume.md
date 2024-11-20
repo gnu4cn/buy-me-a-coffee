@@ -96,6 +96,18 @@ IT · IT 支持
 
 
 
+### 建立本地 Debian 软件包仓库
+
+
+项目描述：BSP 团队提出，目前研发内网所使用的 Linux 编译主机基于 RH/CentOS EL7 过于陈旧，其内核/GCC/CMake/Make/GLIBC 等版本过低，导致新版本的 VSCode 无法连接至该主机，工具链也不支持。为此需要新的 Linux 主机平台。项目为其选择 Debian12 Bookworm 作为操作系统，其是 Ubuntu 等发行版的上游发行版，内核等较稳定较新，适合用于此场景。
+
+
+项目职责：配置、测试基于 Aptly、Nginx 搭建的 Debian 软件包仓库，并在内网 BSP 编译构建 Linux 主机上配置使用。
+
+项目业绩：所配置的 Debian 软件包仓库运行正常，成功建立基于 Debian12 Bookworm 的内网研发环境。
+
+
+
 ### 网络流量监视系统部署配置 _2024.10 至 2024.10_
 
 
