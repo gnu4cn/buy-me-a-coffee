@@ -59,7 +59,7 @@
 
 
 
-![支付宝-Alipay: laxers@gmail.com](images/alipay-laxers.png)
+![支付宝-Alipay: laxers@gmail.com](images/alipay-laxers.jpeg)
 
 *支付宝 - Alipay，扫码付款*
 
