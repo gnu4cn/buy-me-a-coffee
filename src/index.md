@@ -11,7 +11,7 @@
 
 - [60 天通过 CCNA 考试 - 计算机网络](https://ccna60d.xfoss.com) 🛰️ <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=ccna60d&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
-- [Ansible 教程](https://ans.xfoss.com/) 🅰️ 🆕
+- [Ansible 教程](https://ansible.xfoss.com/) 🅰️ 🆕
 
 
 - [Java 编程语言](https://java.xfoss.com/) ☕️
