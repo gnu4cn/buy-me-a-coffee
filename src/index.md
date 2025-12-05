@@ -80,7 +80,9 @@
 - _2017-05-21_，“远” 通过支付宝进行了捐赠，并留言 “60 天通过 ccna 对我帮助很大期待更新”
 
 
-## PV 图表
+## PV 图表（每月）
+
+近期，xfoss.com 已经开启 CloudFlare 上的免费加速计划。PV 数据得以呈现（此前是参考 Google Search 上的数据）。
 
 ![11-Nov-2025](./images/pv_chart_Dev-2025.png)
 
