@@ -13,21 +13,8 @@
 - [HPC 集群](https://hpcl.xfoss.com) 🧮
 - [代码 snippets 与技术笔记](https://tips.xfoss.com) ✨
 
-## 站点更新
-
-- 1/30/2026，在前期使用 [CloadFlare](https://www.cloudflare.com/) 免费方案后，今天突然想到把本体服务器的 IPv6 地址配置到 CF 的 DNS AAAA 记录，发现访问速度得以极大提升。得益于近期重新回顾 [netcomm.xfoss.com](https://netcomm.xfoss.com) 上讲到的 IPv6 知识。
-
-
-<br />
-<br />
-
-
 
 要在本地阅读书本，请参考：[`mdbook` 在本地阅读](mdbook_howto_serve.md)
-
-
-
----
 
 <details>
     <summary>打赏，donate 💰</summary>
@@ -57,6 +44,12 @@
 - _2023-07-21_，“shishougang” 通过微信支付进行了一笔捐赠
 - _2017-08-03_，“十円” 通过支付宝进行了捐赠，并留言 “谢谢译者的辛勤付出！”
 - _2017-05-21_，“远” 通过支付宝进行了捐赠，并留言 “60 天通过 ccna 对我帮助很大期待更新”
+
+
+## 站点更新
+
+- 1/30/2026，在前期使用 [CloadFlare](https://www.cloudflare.com/) 免费方案后，今天突然想到把本体服务器的 IPv6 地址配置到 CF 的 DNS AAAA 记录，发现访问速度得以极大提升。得益于近期重新回顾 [netcomm.xfoss.com](https://netcomm.xfoss.com) 上讲到的 IPv6 知识。
+
 
 
 ## PV 图表（每月）
