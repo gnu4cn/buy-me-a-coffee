@@ -1,44 +1,23 @@
 ## `books.xfoss.com`
 
-
 多年以来，xfoss.com 已有如下内容。这些内容在不断更新和修订中。希望能对你有所帮助。
 
-
-
-
 - [Rust 编程语言](https://rust-lang.xfoss.com/) ⚙️
-
-
 - [Erlang 编程, Programming Erlang, 2nd Edition](https://erl.xfoss.com/) 🇪
-
-
 - [60 天通过 CCNA 考试 - 计算机网络](https://netcomm.xfoss.com) 🛰️ <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=ccna60d&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-
 - [Ansible 教程](https://ans.xfoss.com/) 🅰️ 🆕
-
-
 - [Java 编程语言](https://java.xfoss.com/) ☕️
-
-
 - [Tcl/Tk 语言](https://tcl.xfoss.com) 🪶
-
-
 - [Lua 语言](https://lua.xfoss.com) ☯️
-
-
 - [Jenkins 用户手册](https://jenkins.xfoss.com) 🏗️
-
-
 - [HPC 集群](https://hpcl.xfoss.com) 🧮
-
-
 - [代码 snippets 与技术笔记](https://tips.xfoss.com) ✨
 
+## 站点更新
+
+- 1/30/2026，在前期使用 [CloadFlare](https://www.cloudflare.com/) 免费方案后，今天突然想到把本体服务器的 IPv6 地址配置到 CF 的 DNS AAAA 记录，发现访问速度得以极大提升。得益于近期重新回顾 [netcomm.xfoss.com](https://netcomm.xfoss.com) 上讲到的 IPv6 知识。
 
 
-
-<br />
-<br />
 <br />
 <br />
 
