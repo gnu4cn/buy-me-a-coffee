@@ -46,24 +46,5 @@
 - _2017-05-21_，“远” 通过支付宝进行了捐赠，并留言 “60 天通过 ccna 对我帮助很大期待更新”
 
 
-## 站点更新
-
-- 1/30/2026，在前期使用 [CloadFlare](https://www.cloudflare.com/) 免费方案后，今天突然想到把本体服务器的 IPv6 地址配置到 CF 的 DNS AAAA 记录，发现访问速度得以极大提升。得益于近期重新回顾 [netcomm.xfoss.com](https://netcomm.xfoss.com) 上讲到的 IPv6 知识。
-
-
-
-## PV 图表（每月）
-
-近期，xfoss.com 已经开启 CloudFlare 上的免费加速计划。PV 数据得以呈现（此前是参考 Google Search 上的数据）。
-
-![11-Nov-2025](./images/pv_chart_Dev-2025.png)
-
-*2025 年 11 月*
-
-
-
-（End）
-
-
 
 
