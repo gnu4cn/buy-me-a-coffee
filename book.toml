@@ -11,8 +11,6 @@ renderer = ["html"]
 
 
 [output.html]
-git-repository-url = "https://github.com/gnu4cn/buy-me-a-coffee"
-git-repository-icon = "fa-github"
 
 [output.html.print]
 enable = false
