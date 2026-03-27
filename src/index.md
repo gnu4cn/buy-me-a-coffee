@@ -3,7 +3,7 @@
 多年以来，xfoss.com 已有如下内容。这些内容在不断更新和修订中。希望能对你有所帮助。
 
 - [Rust 编程语言](https://rust-lang.xfoss.com/) ⚙️  <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=rust-lang-zh_CN&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
-- [Erlang 编程, Programming Erlang, 2nd Edition](https://erl.xfoss.com/) 🇪
+- [Erlang 编程, 第二版](https://erl.xfoss.com/) 🇪
 - [60 天通过 CCNA 考试 - 计算机网络](https://netcomm.xfoss.com) 🛰️ <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=ccna60d&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 - [Ansible 教程](https://ans.xfoss.com/) 🅰️ 🆕
 - [Java 编程语言](https://java.xfoss.com/) ☕️
