@@ -11,6 +11,7 @@
 
 + 其他
     - [60 天通过 CCNA 考试 - 计算机网络](https://netcomm.xfoss.com) 🛰️ <iframe src="https://ghbtns.com/github-btn.html?user=gnu4cn&repo=ccna60d&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+    - [OT 网络安全：NIST SP 800-82 第 3 次修订](https://ot-nist.xfoss.com)
     - [Ansible 教程](https://ans.xfoss.com/) 🅰️ 🆕
     - [Jenkins 用户手册](https://jenkins.xfoss.com) 🏗️
     - [HPC 集群](https://hpcl.xfoss.com) 🧮
@@ -34,6 +35,16 @@
 
 ![微信支付-WeChat Pay: xfoss-com](images/wechat-pay-hector.jpeg)
 *微信支付 - WeChat Pay, 扫码付款*
+
+<p>或通过 PayPal:</p>
+
+<form style="text-align: center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="JU6TNGPCAAVQA" />
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" title="有了PayPal，您可以更安全便捷地在线付款！" alt="立即购买" />
+</form>
+
 </details>
 
 ## 打赏记录
