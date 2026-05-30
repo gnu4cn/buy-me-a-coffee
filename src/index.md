@@ -29,14 +29,14 @@
 > 由于 xfoss.com 运营需要一点开支（每年大概 ￥500）。所以如果你觉得这里的内容有帮助，那么请通过下列渠道进行打赏。
 >
 >
-
-![支付宝-Alipay: laxers@gmail.com](images/alipay-laxers.jpeg)
-*支付宝 - Alipay，扫码付款*
-
-![微信支付-WeChat Pay: xfoss-com](images/wechat-pay-hector.jpeg)
-*微信支付 - WeChat Pay, 扫码付款*
-
-<p>或通过 PayPal:</p>
+>
+> ![支付宝-Alipay: laxers@gmail.com](images/alipay-laxers.jpeg)
+> *支付宝 - Alipay，扫码付款*
+>
+> ![微信支付-WeChat Pay: xfoss-com](images/wechat-pay-hector.jpeg)
+> *微信支付 - WeChat Pay, 扫码付款*
+>
+> <p>或通过 PayPal:</p>
 
 <form style="text-align: center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" />
